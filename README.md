@@ -1,5 +1,5 @@
 # Vrinda-Store-Sales-Analysis
-![Data Visualisation - Vrinda Stores](https://in.docworkspace.com/d/sICex2IlNtZWHtAY).
+![Data Visualisation - Vrinda Stores]().
 
 # VRINDA STORE SALES ANALYSIS
 
