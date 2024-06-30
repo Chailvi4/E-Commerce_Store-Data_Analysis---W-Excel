@@ -1,5 +1,5 @@
 # Vrinda-Store-Sales-Analysis
-![Data Visualisation - Vrinda Stores]().
+![Data Visualisation - Vrinda Stores](https://github.com/Chailvi4/E-Commerce_Store-Data_Analysis-Excel/assets/159124754/bb4fe7c7-e951-4a8d-b848-50da0b0879c7)
 
 # VRINDA STORE SALES ANALYSIS
 
